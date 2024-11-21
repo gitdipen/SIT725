@@ -1,0 +1,13 @@
+h1{
+    color: rgb(34, 34, 34);
+}
+
+form {
+    border: 2px solid #0f7ef4; 
+    border-radius: 10px; 
+    padding: 20px; 
+    background-color: #fff; 
+    display: block; 
+    width: 20%; 
+    margin: 0 auto;
+}
