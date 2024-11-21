@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 //static css
 app.use(express.static(path.join(__dirname)));
 
-//for html
+//for html file
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'index.html')); 
 });
