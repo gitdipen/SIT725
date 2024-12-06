@@ -7,4 +7,7 @@ body {
     background-color: #00796b;
   }
   
+  .brand-logo img {
+    vertical-align: middle;
+  }
   
